@@ -24,7 +24,7 @@
 ## 𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬   »»» 👑AbrasiveTax49👑
 ## Contact
 
-AbrasiveTax49 - [AbrasiveTax49#1051](https://www.discordapp.com) - abrasive.tax@gmail.com
+AbrasiveTax49 - [『研』『磨』『税』『49』 ᓚᘏᗢ#1051](https://www.discordapp.com) - abrasive.tax@gmail.com
 <!-- Statistics -->  
 
 <p>
