@@ -21,6 +21,10 @@
 #### 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻.loli
 #### 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻.svb
 .svb is for SilverBullet and .loli is for any
+![image](https://user-images.githubusercontent.com/71939466/207973848-aa782cf5-b96d-4598-bb19-ebcb6516fcbe.png)
+![image](https://user-images.githubusercontent.com/71939466/207974410-f4d54668-7ea4-4c86-a3cf-13ea76aba18d.png)
+![image](https://user-images.githubusercontent.com/71939466/207973467-8dcc7ca3-33e5-4e98-8204-41cd9e87500c.png)
+
 ## 𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬   »»» 👑AbrasiveTax49👑
 ## Contact
 
