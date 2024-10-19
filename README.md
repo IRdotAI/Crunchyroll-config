@@ -16,6 +16,8 @@
     <a href="https://github.com/AbrasiveTax49//Crunchyroll-config/issues">Request Feature</a>
       ·
     <a href="https://taxhax.webflow.io">Visit my website</a>
+     ·
+    <a href="https://github.com/IRdotAI/Crunchyroll-config/releases/tag/v.2.0.0">Latest Release</a>
   </p>
   
 #### 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻.loli
