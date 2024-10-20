@@ -1,19 +1,19 @@
 # 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻 Full Capture
 <p align="center">
-<img src=https://img.shields.io/github/stars/AbrasiveTax49/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/issues/AbrasiveTax49/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/AbrasiveTax49/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/stars/IRdotAI/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/IRdotAI/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/IRdotAI/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
   <p align="center">
     A crunchyroll config checker for all your anime needs
     <br />
-    <a href="https://github.com/AbrasiveTax49//Crunchyroll-config"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IRdotAI//Crunchyroll-config"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AbrasiveTax49//Crunchyroll-config/issues">Report Bug</a>
+    <a href="https://github.com/IRdotAI//Crunchyroll-config/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AbrasiveTax49//Crunchyroll-config/issues">Request Feature</a>
+    <a href="https://github.com/IRdotAI//Crunchyroll-config/issues">Request Feature</a>
       ·
     <a href="https://taxhax.webflow.io">Visit my website</a>
      ·
@@ -30,7 +30,7 @@
 ## 𝗖𝗢𝗡𝗙𝗜𝗚 * 𝗕𝗬   »»» 👑AbrasiveTax49👑
 ## Contact
 
-AbrasiveTax49 - [『研』『磨』『税』『49』 ᓚᘏᗢ#1051](https://www.discordapp.com) - abrasive.tax@gmail.com
+AbrasiveTax49(RdotA) - [.rdota.69383739](discord.com/channels/@me/693837393274470443) - abrasive.tax@gmail.com
 <!-- Statistics -->  
 
 <p>
