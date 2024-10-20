@@ -1,4 +1,4 @@
-# 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻 Full Capture
+# 🅲🆁🆄🅽🅲🅷🆈🆁🅾🅻🅻 Full Capture 🃏
 <p align="center">
 <img src=https://img.shields.io/github/stars/IRdotAI/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/issues/IRdotAI/Crunchyroll-config?style=for-the-badge&logo=appveyor&color=informational />
